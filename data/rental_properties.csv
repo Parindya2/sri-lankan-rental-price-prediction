@@ -1,0 +1,91 @@
+Location,District,Area_Tier,Type,Bedrooms,Bathrooms,Size_sqft,Furnished,Parking,Garden,Has_AC,Has_Servant_Room,Has_Pool_Gym,Monthly_rent
+Ja-Ela,Gampaha,Gampaha,House,2,1,1300,Yes,Yes,No,0,0,0,80000
+Ratmalana,Colombo,Colombo Suburbs,House,3,2,1800,No,Yes,No,0,0,0,99999
+Marawila,Puttalam,Other Districts,House,3,2,1500,Yes,Yes,No,0,0,0,60000
+Piliyandala,Colombo,Colombo Suburbs,House,4,3,2000,Yes,Yes,Yes,0,0,0,225000
+Kelaniya,Gampaha,Gampaha,House,4,3,2000,No,No,No,0,0,0,120000
+Pannipitiya,Colombo,Colombo Suburbs,House,4,2,2500,Unknown,Yes,No,0,0,0,200000
+Malabe,Colombo,Colombo Suburbs,House,3,3,1200,Yes,Yes,Yes,0,0,0,250000
+Maharagama,Colombo,Colombo Suburbs,Apartment,2,2,1200,Yes,Yes,No,0,0,0,150000
+Dehiwala,Colombo,Colombo Suburbs,House,5,6,3200,No,Yes,Yes,0,0,0,325000
+Thalawatugoda,Colombo,Colombo Suburbs,House,3,2,1800,No,No,No,0,1,0,100000
+Ragama,Gampaha,Gampaha,House,2,1,1800,No,Yes,No,0,0,0,70000
+Dehiwala,Colombo,Colombo Suburbs,House,3,2,2500,Unknown,No,No,0,0,0,200000
+Homagama,Colombo,Colombo Suburbs,House,3,2,2000,No,No,No,0,0,0,100000
+Dehiwala,Colombo,Colombo Suburbs,House,3,2,1200,Unknown,Yes,No,0,0,0,130000
+Kolonnawa,Colombo,Colombo Suburbs,House,2,1,700,No,Yes,No,0,0,0,30000
+Kotte,Colombo,Colombo Suburbs,House,3,3,2800,Yes,Yes,Yes,0,0,0,350000
+Thalawatugoda,Colombo,Colombo Suburbs,House,2,1,1200,No,Yes,No,0,0,0,75000
+Negombo,Gampaha,Gampaha,House,2,2,1600,Yes,Yes,No,0,0,0,85000
+Ratmalana,Colombo,Colombo Suburbs,House,2,2,1800,No,Yes,Yes,0,1,0,110000
+Seeduwa,Gampaha,Gampaha,House,2,2,1800,Yes,Yes,No,0,0,0,60000
+Nugegoda,Colombo,Colombo Suburbs,House,3,2,2700,Yes,Yes,No,1,0,0,250000
+Nugegoda,Colombo,Colombo Suburbs,House,3,2,1200,No,Yes,No,0,0,0,110000
+Kadawatha,Gampaha,Gampaha,House,1,1,350,Yes,Yes,No,0,0,0,53000
+Tangalla,Hambantota,Other Districts,House,3,2,1000,Yes,No,No,0,0,0,45000
+Dehiwala,Colombo,Colombo Suburbs,House,3,3,1300,Yes,Yes,Yes,1,1,0,250000
+Colombo 4,Colombo,Colombo Prime,House,3,3,2600,Yes,Yes,No,1,1,0,500000
+Colombo 7,Colombo,Colombo Prime,House,2,4,2700,No,Yes,No,0,0,0,550000
+Colombo 15,Colombo,Colombo Suburbs,House,5,5,2000,No,No,No,0,0,0,350000
+Ja-Ela,Gampaha,Gampaha,House,2,1,1300,Yes,No,No,0,0,0,75000
+Colombo 5,Colombo,Colombo Prime,House,2,1,1455,Semi,Yes,No,0,0,0,200000
+Kottawa,Colombo,Colombo Suburbs,House,4,4,1800,Yes,Yes,No,0,0,0,125000
+Thalawatugoda,Colombo,Colombo Suburbs,House,4,3,4500,No,Yes,Yes,0,1,0,200000
+Battaramulla,Colombo,Colombo Suburbs,House,4,2,2600,No,Yes,No,0,1,0,185000
+Kotte,Colombo,Colombo Suburbs,House,4,4,1600,No,Yes,No,1,1,0,330000
+Colombo 6,Colombo,Colombo Prime,House,4,4,2850,No,Yes,No,0,1,0,400000
+Kotte,Colombo,Colombo Suburbs,House,4,2,4000,Yes,Yes,Yes,1,0,0,400000
+Mount Lavinia,Colombo,Colombo Suburbs,House,3,2,1400,Semi,No,No,0,0,0,125000
+Thalawatugoda,Colombo,Colombo Suburbs,House,4,3,3500,No,Yes,No,1,0,0,200000
+Kaduwela,Colombo,Colombo Suburbs,House,2,1,1800,No,Yes,No,0,0,0,65000
+Boralesgamuwa,Colombo,Colombo Suburbs,House,2,1,950,No,Yes,No,0,0,0,100000
+Kottawa,Colombo,Colombo Suburbs,House,2,1,650,No,Yes,No,0,0,0,55000
+Mount Lavinia,Colombo,Colombo Suburbs,House,2,2,1100,No,No,No,0,0,0,80000
+Kohuwala,Colombo,Colombo Suburbs,House,3,2,1800,Yes,Yes,No,1,0,0,450000
+Colombo 7,Colombo,Colombo Prime,Apartment,3,2,1350,Yes,Yes,No,0,1,0,400000
+Colombo 5,Colombo,Colombo Prime,Apartment,2,2,975,Yes,Yes,No,1,0,0,275000
+Pannipitiya,Colombo,Colombo Suburbs,Apartment,3,4,2000,No,Yes,No,1,1,0,75000
+Colombo 2,Colombo,Colombo Prime,Apartment,2,2,743,Yes,Yes,No,0,0,1,600000
+Katugastota,Kandy,Kandy,Apartment,2,1,1260,Yes,Yes,Yes,0,0,1,180000
+Kandy,Kandy,Kandy,Apartment,2,1,700,Yes,Yes,No,0,0,0,76000
+Kuliyapitiya,Kurunegala,Other Districts,House,2,1,1400,No,Yes,Yes,0,0,0,30000
+Kurunegala,Kurunegala,Other Districts,House,6,2,4000,Semi,Yes,Yes,0,1,0,85000
+Dankotuwa,Puttalam,Other Districts,House,1,1,900,No,Yes,No,0,0,0,25000
+Nuwara Eliya,Nuwara Eliya,Other Districts,House,4,2,1850,No,Yes,No,0,0,0,65000
+Jaffna,Jaffna,Other Districts,House,2,1,416,No,Yes,No,0,0,0,55000
+Jaffna,Jaffna,Other Districts,House,3,3,3500,Yes,Yes,No,1,0,0,150000
+Jaffna,Jaffna,Other Districts,House,2,2,1000,No,Yes,Yes,0,0,0,60000
+Badulla,Badulla,Other Districts,House,4,4,2500,Yes,Yes,No,0,0,0,75000
+Badulla,Badulla,Other Districts,House,2,1,300,No,Yes,No,0,0,0,40000
+Ratnapura,Ratnapura,Other Districts,House,2,1,1500,No,Yes,No,0,0,0,25000
+Kuruwita,Ratnapura,Other Districts,House,3,2,2000,No,Yes,Yes,0,0,0,42000
+Ratnapura,Ratnapura,Other Districts,House,2,2,800,No,Yes,No,0,0,0,42000
+Galle,Galle,Galle,House,3,2,2000,Yes,Yes,No,0,0,0,150000
+Galle,Galle,Galle,House,4,2,3284,Yes,Yes,Yes,1,0,0,275000
+Galle,Galle,Galle,House,5,4,2400,Yes,Yes,Yes,0,0,0,150000
+Ahangama,Galle,Galle,House,4,2,2000,No,Yes,Yes,0,0,0,60000
+Galle,Galle,Galle,House,5,2,2500,Yes,Yes,Yes,1,0,0,160000
+Galle,Galle,Galle,House,4,4,7040,No,Yes,Yes,0,1,0,125000
+Galle,Galle,Galle,House,1,1,1750,No,Yes,No,0,0,0,25000
+Karapitiya,Galle,Galle,House,3,2,1400,No,Yes,Yes,0,0,0,52500
+Galle,Galle,Galle,House,4,3,2500,Yes,Yes,Yes,0,1,0,275000
+Galle,Galle,Galle,House,3,2,2500,No,Yes,Yes,0,0,0,150000
+Peradeniya,Kandy,Kandy,House,3,1,2000,No,Yes,Yes,0,1,0,75000
+Kundasale,Kandy,Kandy,House,3,3,2500,Semi,Yes,No,0,1,0,140000
+Peradeniya,Kandy,Kandy,House,3,2,1500,Yes,Yes,No,0,0,0,150000
+Ampitiya,Kandy,Kandy,House,4,4,2000,Yes,Yes,No,0,0,0,95000
+Katugastota,Kandy,Kandy,House,4,2,1000,No,Yes,No,0,0,0,70000
+Trincomalee,Trincomalee,Other Districts,House,3,2,1000,No,Yes,Yes,0,0,0,25000
+Trincomalee,Trincomalee,Other Districts,House,3,3,1300,Yes,Yes,No,0,0,0,80000
+Trincomalee,Trincomalee,Other Districts,House,3,3,900,No,Yes,No,1,1,0,65000
+Ambalangoda,Galle,Galle,Apartment,2,2,600,Yes,Yes,No,0,0,0,200000
+Galle,Galle,Galle,Apartment,3,2,850,Yes,Yes,No,0,0,0,110000
+Galle,Galle,Galle,Apartment,1,1,600,Yes,Yes,No,0,0,0,85000
+Yakkala,Gampaha,Gampaha,Apartment,3,2,1200,Yes,Yes,No,1,0,1,130000
+Kiribathgoda,Gampaha,Gampaha,Apartment,2,2,2000,Yes,Yes,No,1,0,0,175000
+Kandana,Gampaha,Gampaha,Apartment,2,2,1000,Semi,Yes,No,0,0,0,60000
+Wattala,Gampaha,Gampaha,Apartment,2,2,1120,Yes,Yes,No,1,0,1,235000
+Kottawa,Colombo,Colombo Suburbs,Apartment,2,2,1450,Yes,Yes,No,1,0,1,200000
+Rajagiriya,Colombo,Colombo Suburbs,Apartment,3,2,1060,Yes,Yes,No,1,0,1,300000
+Kaduwela,Colombo,Colombo Suburbs,House,4,3,3000,Yes,Yes,Yes,0,0,0,135000
+Kaduwela,Colombo,Colombo Suburbs,House,1,1,700,Yes,Yes,No,0,0,0,85000

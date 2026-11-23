@@ -1,0 +1,45 @@
+Model,Feature,Importance
+Random Forest,Type_Apartment,0.006632708168703183
+Random Forest,Type_House,0.0071004145345026125
+Random Forest,Area_Tier_Colombo Prime,0.13053948397388712
+Random Forest,Area_Tier_Colombo Suburbs,0.033740660530853256
+Random Forest,Area_Tier_Galle,0.0069043589948574865
+Random Forest,Area_Tier_Gampaha,0.015249405060115384
+Random Forest,Area_Tier_Kandy,0.0029030744555142546
+Random Forest,Area_Tier_Other Districts,0.23123024020447222
+Random Forest,Furnished_No,0.04899791302024413
+Random Forest,Furnished_Semi,0.0012856990142018044
+Random Forest,Furnished_Unknown,0.0004346132982078472
+Random Forest,Furnished_Yes,0.026625233527316713
+Random Forest,Parking_No,0.0008110057710208044
+Random Forest,Parking_Yes,0.0006834196882444188
+Random Forest,Garden_No,0.006718541463227809
+Random Forest,Garden_Yes,0.005216992113241652
+Random Forest,Bedrooms,0.04020499600368755
+Random Forest,Bathrooms,0.1828392623790532
+Random Forest,Size_sqft,0.17199084461600286
+Random Forest,Has_AC,0.06819659748854871
+Random Forest,Has_Servant_Room,0.0049288154242084934
+Random Forest,Has_Pool_Gym,0.006765720269888494
+XGBoost,Type_Apartment,0.03058270551264286
+XGBoost,Type_House,0.016634324565529823
+XGBoost,Area_Tier_Colombo Prime,0.09328585863113403
+XGBoost,Area_Tier_Colombo Suburbs,0.05496755614876747
+XGBoost,Area_Tier_Galle,0.01670936495065689
+XGBoost,Area_Tier_Gampaha,0.0324770025908947
+XGBoost,Area_Tier_Kandy,0.01861940138041973
+XGBoost,Area_Tier_Other Districts,0.1843620091676712
+XGBoost,Furnished_No,0.09029332548379898
+XGBoost,Furnished_Semi,0.027437454089522362
+XGBoost,Furnished_Unknown,0.0
+XGBoost,Furnished_Yes,0.06389499455690384
+XGBoost,Parking_No,0.01990792714059353
+XGBoost,Parking_Yes,0.0
+XGBoost,Garden_No,0.01996385119855404
+XGBoost,Garden_Yes,0.01913081295788288
+XGBoost,Bedrooms,0.03430403023958206
+XGBoost,Bathrooms,0.10529877990484238
+XGBoost,Size_sqft,0.05346928909420967
+XGBoost,Has_AC,0.08691050112247467
+XGBoost,Has_Servant_Room,0.01018891204148531
+XGBoost,Has_Pool_Gym,0.021561963483691216
